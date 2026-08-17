@@ -1,4 +1,4 @@
-# A documentation assistant with LangChain Sample writing
+# Build a documentation assistant with LangChain
 
 This tutorial builds an agent that answers questions about your product from your own documentation. It retrieves relevant passages, falls back to live web search when the docs come up short, returns an answer with its sources attached, and streams every decision to LangSmith so you can see what it did.
 
